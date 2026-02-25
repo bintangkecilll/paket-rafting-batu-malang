@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(55)_11zon.webp</image:loc>
+            <image:title>Paket Rafting Batu Malang Safety - Gravity Rafting Adventure</image:title>
+            <image:caption>Wisata rafting Batu Malang dengan standar keselamatan terbaik</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog Page -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/blog.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(56)_11zon.webp</image:loc>
+            <image:title>Blog Paket Rafting Batu Malang Safety</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 1 -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/panduan-lengkap-safety-rafting-batu-malang-untuk-pemula.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(55)_11zon.webp</image:loc>
+            <image:title>Panduan Lengkap Safety Rafting Batu Malang untuk Pemula</image:title>
+            <image:caption>Panduan keselamatan rafting lengkap untuk pemula di Batu Malang</image:caption>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 2 -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/tips-memilih-paket-rafting-batu-malang-aman-terpercaya.html</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(56)_11zon.webp</image:loc>
+            <image:title>Tips Memilih Paket Rafting Batu Malang yang Aman dan Terpercaya</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 3 -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/jenis-jeram-tingkat-kesulitan-rafting-batu-malang.html</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(57)_11zon.webp</image:loc>
+            <image:title>Mengenal Jenis Jeram dan Tingkat Kesulitan Rafting di Batu Malang</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 4 -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/persiapan-fisik-mental-rafting-sungai-brantas-batu-malang.html</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(58)_11zon.webp</image:loc>
+            <image:title>Persiapan Fisik dan Mental Sebelum Rafting di Sungai Brantas Batu Malang</image:title>
+        </image:image>
+    </url>
+
+    <!-- Blog Article 5 -->
+    <url>
+        <loc>https://gravityrraftingadventure.com/wisata-rafting-keluarga-batu-malang-panduan-safety-anak.html</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://gravityrraftingadventure.com/img/Paket%20Outbound%20Batu%20Malang%20(59)_11zon.webp</image:loc>
+            <image:title>Wisata Rafting Keluarga di Batu Malang: Panduan Safety untuk Anak-Anak</image:title>
+        </image:image>
+    </url>
+
+</urlset>
